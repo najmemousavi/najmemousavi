@@ -1,4 +1,4 @@
-# Hi there, I'm Najmeh Alsadat Mousavi 👋
+# Hi there, I'm Najme Mousavi 👋
 
 ### Biomedical Engineering Researcher & Embedded Systems Developer
 Welcome to my GitHub profile! I am a passionate Biomedical Engineer specialized in **Bioelectrics**, focusing on bridging the gap between physiological signal processing and robust embedded hardware systems. My research and development work centers around creating efficient algorithms for real-world medical data tracking.
