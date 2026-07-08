@@ -1,9 +1,7 @@
 # Hi there, I'm Najme Mousavi 👋
 
 <p align="center">
-
   <video src="neuralnetwork.mp4" width="500" autoplay loop muted playsinline></video>
-
 </p>
 
 ### Biomedical Engineering Researcher & Embedded Systems Developer
