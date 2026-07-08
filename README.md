@@ -1,8 +1,5 @@
 # Hi there, I'm Najme Mousavi 👋
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/9aeef311-ccf8-4ae1-a162-3cdfb7191caf" width="500" autoplay loop muted playsinline></video>
-</p>
 
 ### Biomedical Engineering Researcher & Embedded Systems Developer
 Welcome to my GitHub profile! I am a Biomedical Engineer specialized in **Bioelectrics**. My expertise lies at the intersection of physiological signal processing (ECG/EEG), low-power embedded medical electronics, and mHealth frameworks. I have a proven track record of bridging the gap between academic R&D and commercial medical device production.
