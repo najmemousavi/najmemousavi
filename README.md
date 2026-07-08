@@ -1,7 +1,7 @@
 # Hi there, I'm Najme Mousavi 👋
 
 <p align="center">
-  <video src="neuralnetwork.mp4" width="500" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/9aeef311-ccf8-4ae1-a162-3cdfb7191caf" width="500" autoplay loop muted playsinline></video>
 </p>
 
 ### Biomedical Engineering Researcher & Embedded Systems Developer
@@ -17,6 +17,9 @@ Welcome to my GitHub profile! I am a Biomedical Engineer specialized in **Bioele
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFFF00?style=for-the-badge&logo=nationalinstruments&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFFF00?style=for-the-badge&logo=nationalinstruments&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
