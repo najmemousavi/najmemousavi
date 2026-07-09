@@ -36,6 +36,10 @@ Welcome to my GitHub profile! I am a Biomedical Engineer specialized in **Bioele
 
 ### 🫀 [ECG Pan-Tompkins with Dynamic Search-Back](https://github.com/najmemousavi/ECG-Pan-Tompkins-Searchback)
 A professional MATLAB implementation optimized for real-world, noisy clinical ECG datasets (180 Hz). It features an optimized dual-filter pipeline (1.5–40 Hz diagnostic bandpass) to aggressively mitigate severe baseline wander and an automated threshold reduction logic to capture weak or skipped R-peaks.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c2ae7a0-891d-4e64-b046-c9326a54d073" width="750" alt="ECG Search-back Algorithm Output">
+</p>
+
 
 ### 🧠 Portable EEG Monitoring System with Android Connectivity (M.Sc. Thesis)
 Architected and developed a compact single-channel EEG acquisition hardware utilizing the NeuroSky TGAM module under strict power and size constraints. Developed a native Android application (Java) implementing real-time Bluetooth data streaming, dynamic signal visualization, and baseline noise filtering.
