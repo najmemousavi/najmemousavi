@@ -31,18 +31,25 @@ Welcome to my GitHub profile! I am a Biomedical Engineer specialized in **Bioele
 - **Data Acquisition (DAQ)**: Interfacing bio-amplifiers, analog-to-digital converters (ADC), pulse oximetry, and sensor modules under strict low-power constraints.
 
 ---
-
-## 🔬 Featured Projects & Industrial R&D
+## 🛠️ Featured Research & Engineering Projects
 
 ### 🫀 [ECG Pan-Tompkins with Dynamic Search-Back](https://github.com/najmemousavi/ECG-Pan-Tompkins-Searchback)
 A professional MATLAB implementation optimized for real-world, noisy clinical ECG datasets (180 Hz). It features an optimized dual-filter pipeline (1.5–40 Hz diagnostic bandpass) to aggressively mitigate severe baseline wander and an automated threshold reduction logic to capture weak or skipped R-peaks.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c2ae7a0-891d-4e64-b046-c9326a54d073" width="750" alt="ECG Search-back Algorithm Output">
+  <img src="https://github.com/user-attachments/assets/0c2ae7a0-891d-4e64-b046-c9326a54d073" height="230" alt="ECG Search-back Algorithm Output">
 </p>
 
+---
 
-### 🧠 Portable EEG Monitoring System with Android Connectivity (M.Sc. Thesis)
-Architected and developed a compact single-channel EEG acquisition hardware utilizing the NeuroSky TGAM module under strict power and size constraints. Developed a native Android application (Java) implementing real-time Bluetooth data streaming, dynamic signal visualization, and baseline noise filtering.
+### 🧠 [Portable EEG Monitoring System with Android Connectivity](https://github.com/najmemousavi/Portable-EEG-Android-Receiver)
+A compact, single-channel EEG acquisition and visualization framework developed as part of my Master's Thesis. The system interfaces natively with a NeuroSky TGAM hardware core via Bluetooth RFCOMM to capture, parse, and map raw brainwave telemetry into cognitive metrics and discrete frequency bands ($\Delta$, $\Theta$, $\alpha$, $\beta$, $\gamma$) in real time.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5f47dfc-ebc0-4255-be72-fb98cff1d956" height="230" alt="MindwaveActivity - Pairing" />
+  <img src="https://github.com/user-attachments/assets/8527c129-1a01-4621-bd9b-68d10028e75a" height="230" alt="DeviceActivity - Initialized" />
+  <img src="https://github.com/user-attachments/assets/b6b4e409-1551-4db3-893a-24b1ed5866ad" height="230" alt="DeviceActivity - Active Tracking" />
+</p>
 
 ### 📟 Industrial R&D: Commercial ECG & Cardiac Holter Firmware Optimization
 Spearheaded the R&D lifecycle and firmware architecture for commercial medical devices. Designed digital filtering algorithms in MATLAB and implemented real-time signal-conditioning pipelines to maximize Signal-to-Noise Ratio (SNR) in cardiac Holter monitors and proprietary ECG instrumentation.
